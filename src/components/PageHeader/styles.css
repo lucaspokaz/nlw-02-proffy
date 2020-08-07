@@ -23,6 +23,10 @@
   transition: opacity 0.6;
 }
 
+.botao-voltar {
+  height: 4rem;
+}
+
 .page-header .top-bar-container > img {
   height: 1.6rem;
 }

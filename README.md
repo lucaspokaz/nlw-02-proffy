@@ -14,9 +14,9 @@
 
 ## Imagens do Sistema
 
-> ![dashboard](https://github.com/lucaspokaz/onecoder_crm/blob/master/images/dashboard.png)
-> ![clientes](https://github.com/lucaspokaz/onecoder_crm/blob/master/images/clientes.png)
-> ![quadro_tarefas](https://github.com/lucaspokaz/onecoder_crm/blob/master/images/quadro_tarefas.png)
+> ![dashboard]()
+> ![clientes]()
+> ![quadro_tarefas]()
 
 ## Instruções
 
